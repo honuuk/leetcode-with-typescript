@@ -1,3 +1,7 @@
+/**
+ * 문제 : https://leetcode.com/problems/two-sum/
+ */
+
 function twoSum(nums: number[], target: number): number[] {
   const indexMap: any = {};
   for (const [index, num] of nums.entries()) {

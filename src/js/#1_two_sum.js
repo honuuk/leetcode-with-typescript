@@ -1,4 +1,7 @@
 "use strict";
+/**
+ * 문제 : https://leetcode.com/problems/two-sum/
+ */
 function twoSum(nums, target) {
     const indexMap = {};
     for (const [index, num] of nums.entries()) {
