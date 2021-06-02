@@ -14,8 +14,6 @@ function LCP(left: string, right: string) {
 }
 
 function longestCommonPrefix(strs: string[]): string {
-  if (strs.length === 0) return "";
-
   let answer = strs[0];
 
   for (const str of strs) {
