@@ -5,7 +5,7 @@
 
 |   Easy  |  Medium | Hard |
 |:-------:|:-------:|:----:|
-|   5   |   7   |  2  |
+|   5   |   8   |  2  |
 
 
 | 문제 | 코드 | 난이도 |
@@ -24,3 +24,4 @@
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2312-integer-to-roman.ts) | Medium |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2313-roman-to-integer.ts) | Easy |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2314-longest-common-prefix.ts) | Easy |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2315-3-sum.ts) | Medium |
