@@ -1,11 +1,11 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
 
-## Total: 15
+## Total: 16
 
 |   Easy  |  Medium | Hard |
 |:-------:|:-------:|:----:|
-|   5   |   8   |  2  |
+|   5   |   9   |  2  |
 
 
 | 문제 | 코드 | 난이도 |
@@ -25,3 +25,4 @@
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2313-roman-to-integer.ts) | Easy |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2314-longest-common-prefix.ts) | Easy |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2315-3-sum.ts) | Medium |
+| [15. 3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2316-3-sum-closest.ts) | Medium |
