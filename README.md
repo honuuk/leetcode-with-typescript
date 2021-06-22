@@ -1,7 +1,7 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
 
-## Total: 14
+## Total: 15
 
 |   Easy  |  Medium | Hard |
 |:-------:|:-------:|:----:|
