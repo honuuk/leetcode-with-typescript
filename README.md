@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
-## Total: 17
+## Total: 18
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-|  5   |   10   |  2   |
+|  5   |   11   |  2   |
 
 | 문제                                                                                                                               |                                                                 코드                                                                  | 난이도 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -25,3 +25,4 @@
 | [15. 3Sum](https://leetcode.com/problems/3sum/)                                                                                    |                     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2315-3-sum.ts)                     | Medium |
 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                    |                 [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2316-3-sum-closest.ts)                 | Medium |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                  |     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2317-letter-combinations-of-a-phone-number.ts)     | Medium |
+| [18. 4Sum](https://leetcode.com/problems/4sum/)                                                                                    |                     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2318-4-sum.ts)                     | Medium |

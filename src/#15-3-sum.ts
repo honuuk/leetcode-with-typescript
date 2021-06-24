@@ -16,7 +16,6 @@ function threeSum(_nums: number[]): number[][] {
 
     while (lo < hi) {
       const sum = nums[i] + nums[lo] + nums[hi];
-      console.log(sum, i, lo, hi);
 
       if (sum === 0) {
         answer.push([nums[i], nums[lo], nums[hi]]);
