@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
-## Total: 18
+## Total: 19
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-|  5   |   11   |  2   |
+|  5   |   12   |  2   |
 
 | 문제                                                                                                                               |                                                                 코드                                                                  | 난이도 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -26,3 +26,4 @@
 | [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)                                                                    |                 [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2316-3-sum-closest.ts)                 | Medium |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                  |     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2317-letter-combinations-of-a-phone-number.ts)     | Medium |
 | [18. 4Sum](https://leetcode.com/problems/4sum/)                                                                                    |                     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2318-4-sum.ts)                     | Medium |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            |       [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2319-remove-Nth-node-from-end-of-list.ts)        | Medium |
