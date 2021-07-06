@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
-## Total: 20
+## Total: 21
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-|  6   |   12   |  2   |
+|  7   |   12   |  2   |
 
 | 문제                                                                                                                               |                                                                 코드                                                                  | 난이도 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -28,3 +28,4 @@
 | [18. 4Sum](https://leetcode.com/problems/4sum/)                                                                                    |                     [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2318-4-sum.ts)                     | Medium |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                            |       [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2319-remove-Nth-node-from-end-of-list.ts)        | Medium |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                          |               [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2320-valid-parentheses.ts)               |  Easy  |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                |            [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%2321-merge-two-sorted-lists.ts)             |  Easy  |
