@@ -1,6 +1,6 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
-## Total: 22
+## Total: 23
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
