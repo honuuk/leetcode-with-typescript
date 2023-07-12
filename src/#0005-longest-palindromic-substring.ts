@@ -14,7 +14,7 @@ function longestPalindromeLength(s: string, l: number, r: number) {
   return right - left - 1;
 }
 
-function longestPalindrome(s: string): string {
+export function longestPalindrome(s: string): string {
   let start = 0;
   let end = 1;
 

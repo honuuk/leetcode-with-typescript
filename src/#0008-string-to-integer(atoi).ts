@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/string-to-integer-atoi/
  */
 
-function myAtoi(s: string): number {
+export function myAtoi(s: string): number {
   const inputString = s.trim();
   let sign = 0;
 

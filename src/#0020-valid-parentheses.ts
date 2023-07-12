@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/valid-parentheses/
  */
 
-function isValid(s: string): boolean {
+export function isValid(s: string): boolean {
   const stack: string[] = [];
 
   for (const char of s) {

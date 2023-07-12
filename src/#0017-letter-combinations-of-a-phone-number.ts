@@ -2,7 +2,7 @@ function arrayCombination(a: string[], b: string[]): string[] {
   return b.flatMap((element) => a.map((e) => e + element));
 }
 
-function letterCombinations(_digits: string): string[] {
+export function letterCombinations(_digits: string): string[] {
   const digitLetterMap: { [key: string]: string[] } = {
     2: ["a", "b", "c"],
     3: ["d", "e", "f"],

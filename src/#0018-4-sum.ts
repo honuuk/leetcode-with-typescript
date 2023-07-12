@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/4sum/
  */
 
-function fourSum(_nums: number[], target: number): number[][] {
+export function fourSum(_nums: number[], target: number): number[][] {
   const answer: number[][] = [];
 
   const nums: number[] = _nums.sort((a, b) => a - b);

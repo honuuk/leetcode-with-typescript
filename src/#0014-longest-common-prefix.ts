@@ -13,7 +13,7 @@ function LCP(left: string, right: string) {
   return prefix;
 }
 
-function longestCommonPrefix(strs: string[]): string {
+export function longestCommonPrefix(strs: string[]): string {
   let answer = strs[0];
 
   for (const str of strs) {

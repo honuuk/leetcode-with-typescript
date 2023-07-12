@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/regular-expression-matching/
  */
 
-function isMatch(s: string, p: string): boolean {
+export function isMatch(s: string, p: string): boolean {
   const memo: boolean[][] = [];
   return dp(0, 0);
 

@@ -2,8 +2,7 @@
  * 문제 : https://leetcode.com/problems/3sum-closest/
  */
 
-
-function threeSumClosest(_nums: number[], target: number): number {
+export function threeSumClosest(_nums: number[], target: number): number {
   const nums: number[] = _nums.sort((a, b) => a - b);
   let answer: number = nums[0] + nums[1] + nums[2];
 
@@ -17,15 +16,15 @@ function threeSumClosest(_nums: number[], target: number): number {
       const sum = nums[i] + nums[lo] + nums[hi];
       const currentDiff = Math.abs(target - answer);
       const newDiff = Math.abs(target - sum);
-      
+
       if (sum > target) hi--;
-      else lo++
-      
+      else lo++;
+
       if (currentDiff > newDiff) answer = sum;
     }
   }
 
-  return answer
-};
+  return answer;
+}
 
-console.log(threeSumClosest([0, 2, 1, -3], 1))
+console.log(threeSumClosest([0, 2, 1, -3], 1));

@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/zigzag-conversion/
  */
 
-function convert(s: string, numRows: number): string {
+export function convert(s: string, numRows: number): string {
   const arr: string[] = Array(Math.min(numRows, s.length)).fill("");
 
   let currentRow = 0;

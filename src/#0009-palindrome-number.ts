@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/palindrome-number/
  */
 
-function isPalindrome(x: number): boolean {
+export function isPalindrome(x: number): boolean {
   if (x < 0) return false;
 
   const stringX = x.toString();

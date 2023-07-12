@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/container-with-most-water/
  */
 
-function maxArea(height: number[]): number {
+export function maxArea(height: number[]): number {
   let answer = 0,
     l = 0,
     r = height.length - 1;

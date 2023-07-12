@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/integer-to-roman/
  */
 
-function intToRoman(num: number): string {
+export function intToRoman(num: number): string {
   const values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
   const symbols = [
     "M",

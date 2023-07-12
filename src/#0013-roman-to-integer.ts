@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/roman-to-integer/
  */
 
-function romanToInt(s: string): number {
+export function romanToInt(s: string): number {
   const valueMap: { [key: string]: number } = {
     I: 1,
     V: 5,

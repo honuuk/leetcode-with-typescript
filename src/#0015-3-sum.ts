@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/3sum/
  */
 
-function threeSum(_nums: number[]): number[][] {
+export function threeSum(_nums: number[]): number[][] {
   const answer: number[][] = [];
   const nums = _nums.sort((a, b) => a - b);
   if (nums.length < 3) return answer;

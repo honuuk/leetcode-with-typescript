@@ -2,7 +2,7 @@
  * 문제 : https://leetcode.com/problems/generate-parentheses/
  */
 
-function generateParenthesis(n: number): string[] {
+export function generateParenthesis(n: number): string[] {
   if (n === 0) return [""];
 
   const answer: string[] = [];

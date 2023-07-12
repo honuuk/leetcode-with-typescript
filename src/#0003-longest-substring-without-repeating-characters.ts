@@ -6,7 +6,7 @@ type IndexMap = {
   [key: string]: number;
 };
 
-function lengthOfLongestSubstring(s: string): number {
+export function lengthOfLongestSubstring(s: string): number {
   const indexMap: IndexMap = {};
 
   let leftIndex: number = 0;
