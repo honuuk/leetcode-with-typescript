@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
 
-## Total: 23
+## Total: 24
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-|  7   |   13   |  3   |
+|  7   |   14   |  3   |
 
 | 문제                                                                                                                               |                                                                   코드                                                                   | 난이도 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -31,3 +31,4 @@
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                |             [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230021-merge-two-sorted-lists.ts)             |  Easy  |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                    |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230022-generate-parentheses.ts)              | Medium |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                    |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230023-merge-k-sorted-list.ts)               |  Hard  |
+| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                      |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230024-swap-nodes-in-pairs.ts)               | Medium |
