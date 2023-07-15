@@ -4,7 +4,7 @@
 
 | Easy | Medium | Hard |
 | :--: | :----: | :--: |
-|  7   |   14   |  3   |
+|  7   |   14   |  4   |
 
 | 문제                                                                                                                               |                                                                   코드                                                                   | 난이도 |
 | ---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -32,3 +32,4 @@
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                                    |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230022-generate-parentheses.ts)              | Medium |
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                    |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230023-merge-k-sorted-list.ts)               |  Hard  |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                      |              [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230024-swap-nodes-in-pairs.ts)               | Medium |
+| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)                                |            [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230025-reverse-nodes-in-k-group.ts)            |  Hard  |
