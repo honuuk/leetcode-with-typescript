@@ -1,3 +1,7 @@
+/**
+ * 문제 : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ */
+
 function arrayCombination(a: string[], b: string[]): string[] {
   return b.flatMap((element) => a.map((e) => e + element));
 }
