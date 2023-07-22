@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/palindrome-number/
+ * 난이도 : Easy
  */
 
 export function isPalindrome(x: number): boolean {

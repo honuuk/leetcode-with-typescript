@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ * 난이도 : Medium
  */
 
 type IndexMap = {

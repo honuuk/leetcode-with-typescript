@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/merge-k-sorted-lists/
+ * 난이도 : Hard
  */
 
 class ListNode {

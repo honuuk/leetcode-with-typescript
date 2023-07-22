@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/generate-parentheses/
+ * 난이도 : Medium
  */
 
 export function generateParenthesis(n: number): string[] {

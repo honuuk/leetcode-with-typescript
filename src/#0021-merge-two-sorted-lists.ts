@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+ * 난이도 : Easy
  */
 
 class ListNode {

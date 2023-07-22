@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/longest-palindromic-substring/
+ * 난이도 : Medium
  */
 
 function longestPalindromeLength(s: string, l: number, r: number) {

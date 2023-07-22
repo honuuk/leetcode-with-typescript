@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/regular-expression-matching/
+ * 난이도 : Hard
  */
 
 export function isMatch(s: string, p: string): boolean {

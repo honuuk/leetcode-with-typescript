@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/add-two-numbers/
+ * 난이도 : Medium
  */
 
 class ListNode {

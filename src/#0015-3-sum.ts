@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/3sum/
+ * 난이도 : Medium
  */
 
 export function threeSum(_nums: number[]): number[][] {

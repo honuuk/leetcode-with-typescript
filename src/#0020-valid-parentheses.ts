@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/valid-parentheses/
+ * 난이도 : Easy
  */
 
 export function isValid(s: string): boolean {

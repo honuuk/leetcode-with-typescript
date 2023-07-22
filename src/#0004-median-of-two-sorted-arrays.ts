@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/median-of-two-sorted-arrays/
+ * 난이도 : Hard
  */
 
 export function findMedianSortedArrays(

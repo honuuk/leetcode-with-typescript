@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/reverse-integer/
+ * 난이도 : Medium
  */
 
 function reverseString(str: string): string {

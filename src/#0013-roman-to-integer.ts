@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/roman-to-integer/
+ * 난이도 : Easy
  */
 
 export function romanToInt(s: string): number {

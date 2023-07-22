@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/zigzag-conversion/
+ * 난이도 : Medium
  */
 
 export function convert(s: string, numRows: number): string {

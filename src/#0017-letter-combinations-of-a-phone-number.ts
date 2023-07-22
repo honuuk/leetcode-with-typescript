@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+ * 난이도 : Medium
  */
 
 function arrayCombination(a: string[], b: string[]): string[] {

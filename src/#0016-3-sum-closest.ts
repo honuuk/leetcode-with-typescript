@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/3sum-closest/
+ * 난이도 : Medium
  */
 
 export function threeSumClosest(_nums: number[], target: number): number {

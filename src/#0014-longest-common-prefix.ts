@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/longest-common-prefix/
+ * 난이도 : Easy
  */
 
 function LCP(left: string, right: string) {

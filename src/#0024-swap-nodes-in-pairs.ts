@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/swap-nodes-in-pairs/
+ * 난이도 : Medium
  */
 
 class ListNode {

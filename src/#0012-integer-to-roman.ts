@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/integer-to-roman/
+ * 난이도 : Medium
  */
 
 export function intToRoman(num: number): string {

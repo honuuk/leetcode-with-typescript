@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/container-with-most-water/
+ * 난이도 : Medium
  */
 
 export function maxArea(height: number[]): number {

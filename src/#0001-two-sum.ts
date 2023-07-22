@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/two-sum/
+ * 난이도 : Easy
  */
 
 export function twoSum(nums: number[], target: number): number[] {

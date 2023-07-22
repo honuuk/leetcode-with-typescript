@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/4sum/
+ * 난이도 : Medium
  */
 
 export function fourSum(_nums: number[], target: number): number[][] {

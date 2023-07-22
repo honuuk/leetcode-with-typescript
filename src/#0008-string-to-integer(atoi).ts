@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/string-to-integer-atoi/
+ * 난이도 : Medium
  */
 
 export function myAtoi(s: string): number {

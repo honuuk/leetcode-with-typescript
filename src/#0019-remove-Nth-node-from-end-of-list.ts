@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+ * 난이도 : Medium
  */
 
 class ListNode {

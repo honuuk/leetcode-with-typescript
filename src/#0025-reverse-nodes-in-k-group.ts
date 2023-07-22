@@ -1,5 +1,6 @@
 /**
  * 문제 : https://leetcode.com/problems/reverse-nodes-in-k-group/
+ * 난이도 : Hard
  */
 
 class ListNode {
