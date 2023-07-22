@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const getTitle = (filename) => {
-  const [number, ...names] = filename.split("-");
+  const [_, ...names] = filename.split("-");
   return names
     .map((name) => name.charAt(0).toUpperCase() + name.slice(1))
     .join(" ");
