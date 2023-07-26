@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
   
-  ## Total: 25
+  ## Total: 26
   
   | Easy | Medium | Hard |
   | :--: | :----: | :--: |
-  |  6   |   15   |  4   |
+  |  7   |   15   |  4   |
   
   | 문제                                                                                                                               |                                                                   코드                                                                   | 난이도 |
   | ---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -33,4 +33,5 @@
 [23. Merge K Sorted List.ts](https://leetcode.com/problems/merge-k-sorted-lists/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230023-merge-k-sorted-list.ts) | Hard
 [24. Swap Nodes In Pairs.ts](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230024-swap-nodes-in-pairs.ts) | Medium
 [25. Reverse Nodes In K Group.ts](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230025-reverse-nodes-in-k-group.ts) | Hard
+[26. Remove Duplicates From Sorted Array.ts](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230026-remove-duplicates-from-sorted-array.ts) | Easy
   
