@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
   
-  ## Total: 26
+  ## Total: 27
   
   | Easy | Medium | Hard |
   | :--: | :----: | :--: |
-  |  7   |   15   |  4   |
+  |  8   |   15   |  4   |
   
   | 문제                                                                                                                               |                                                                   코드                                                                   | 난이도 |
   | ---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -34,4 +34,5 @@
 [24. Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230024-swap-nodes-in-pairs.ts) | Medium
 [25. Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230025-reverse-nodes-in-k-group.ts) | Hard
 [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230026-remove-duplicates-from-sorted-array.ts) | Easy
+[27. Remove Element](https://leetcode.com/problems/remove-element/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230027-remove-element.ts) | Easy
   
