@@ -1,10 +1,10 @@
 # Typescript로 [Leetcode](https://leetcode.com/problemset/all/) 문제풀기
   
-  ## Total: 28
+  ## Total: 29
   
   | Easy | Medium | Hard |
   | :--: | :----: | :--: |
-  |  9   |   15   |  4   |
+  |  9   |   16   |  4   |
   
   | 문제                                                                                                                               |                                                                   코드                                                                   | 난이도 |
   | ---------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------: | :----: |
@@ -36,4 +36,5 @@
 [26. Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230026-remove-duplicates-from-sorted-array.ts) | Easy
 [27. Remove Element](https://leetcode.com/problems/remove-element/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230027-remove-element.ts) | Easy
 [28. Find The Index Of The First Occurrence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230028-find-the-index-of-the-first-occurrence-in-a-string.ts) | Easy
+[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Code](https://github.com/jewook3617/leetcode-with-typescript/blob/master/src/%230029-divide-two-integers.ts) | Medium
   
